@@ -1,0 +1,9 @@
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\bin\Release\AddNewProductTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\bin\Release\AddNewProductTestProject.pdb
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\bin\Release\WebDriver.dll
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\bin\Release\WebDriver.Support.dll
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\bin\Release\WebDriver.xml
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\bin\Release\WebDriver.Support.xml
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\obj\Release\AddNewProductTestProject.csprojResolveAssemblyReference.cache
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\obj\Release\AddNewProductTestProject.dll
+c:\users\техносила\documents\visual studio 2013\Projects\AddNewProductTestProject\AddNewProductTestProject\obj\Release\AddNewProductTestProject.pdb
